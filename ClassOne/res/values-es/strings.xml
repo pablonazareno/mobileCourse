@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clase Uno</string>
+    <string name="search_hint">Ingrese Busqueda</string>
+    <string name="search_button">Buscar</string>
+</resources>

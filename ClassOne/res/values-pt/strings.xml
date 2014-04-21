@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teste Um</string>
+    <string name="search_hint">Digite Pesquisa</string>
+    <string name="search_button">Pesquisa</string>
+</resources>
