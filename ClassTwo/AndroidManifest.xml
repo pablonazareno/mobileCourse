@@ -6,7 +6,7 @@
 	<uses-permission android:name="android.permission.INTERNET"/>
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
     <uses-sdk
-        android:minSdkVersion="8"
+        android:minSdkVersion="12"
         android:targetSdkVersion="19" />
 
     <application
@@ -15,14 +15,17 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.classtwo.SearchActivity"
+            android:name="com.example.activities.SearchActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.classtwo.ListActivity"
+        <activity android:name="com.example.activities.ListActivity"
+            	android:label="@string/app_name" >
+        </activity>
+        <activity android:name="com.example.activities.ItemActivity"
             	android:label="@string/app_name" >
         </activity>
     </application>

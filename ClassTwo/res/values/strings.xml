@@ -4,4 +4,5 @@
     <string name="search_hint">Enter keywords</string>
     <string name="search_button">Search</string>
     <string name="searching_label">Searching for:</string>
+    <string name="item_picture">Item Picture</string>
 </resources>
